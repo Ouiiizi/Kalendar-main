@@ -1,0 +1,19 @@
+*{
+    color:white;
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+th, td {
+    padding: 12px 15px;
+}
+
+a {
+    color: black;
+}
